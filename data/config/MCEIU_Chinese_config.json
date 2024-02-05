@@ -1,0 +1,5 @@
+{
+  "target_root": "/sdc/home/zuohaolin/zuohaolin/MC_EIU/data/MC_EIU_Chinese_features/target",
+  "total_cv": 10,
+  "feature_root": "/sdc/home/zuohaolin/zuohaolin/MC_EIU/data/MC_EIU_Chinese_features"
+}
