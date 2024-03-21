@@ -16,14 +16,13 @@ Baidu Link:
 
 Please connect with the author by email to obtain the extraction code once the paper acceptance results are announced.
 
-=============================================   Analysis of MC-EIU Dataset   =====================================================
+=====================   Analysis of MC-EIU Dataset   ==========================
 
-# ![image](Figures/CorrelationMatrix_English.jpg)
-<img src="Figures/CorrelationMatrix_English.jpg" width="50%">
-English Dataset
+<div align="center">
+  <img src="Figures/CorrelationMatrix_English.jpg" width="50%" alt="English Dataset">
+  <center>English Dataset</center>
+  <img src="Figures/CorrelationMatrix_Chinese.jpg" width="50%" alt="Mandarin Dataset">
+  <center>Mandarin Dataset</center>
+</div>
 
-# ![image](Figures/CorrelationMatrix_Chinese.jpg)
-<img src="Figures/CorrelationMatrix_Chinese.jpg" width="50%">
-Mandarin Dataset
-
-Visualization of correlation between emotions and intents in the MC-EIU-English and MC-EIU-Mandarin Datasets.
+Visualization of correlation between emotions and intents in the MC-EIU-English and MC-EIU-Mandarin Datasets. Each circle in the graph represents the sample count for a specific 'Emotion-Intent' pair. Larger circles indicate more samples and higher correlation.
