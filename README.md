@@ -19,10 +19,11 @@ Please connect with the author by email to obtain the extraction code once the p
 =====================   Analysis of MC-EIU Dataset   ==========================
 
 <div align="center">
-  <img src="Figures/CorrelationMatrix_English.jpg" width="50%" alt="English Dataset">
-  <center>English Dataset</center>
-  <img src="Figures/CorrelationMatrix_Chinese.jpg" width="50%" alt="Mandarin Dataset">
-  <center>Mandarin Dataset</center>
+  English Dataset<sub><img src="Figures/CorrelationMatrix_English.jpg" width="35%" alt="English Dataset">
+  Mandarin Dataset<sub></sub><img src="Figures/CorrelationMatrix_Chinese.jpg" width="35%" alt="Mandarin Dataset">
+  
 </div>
 
+We explore the correlation between emotion and intent of English and Mandarin datasets. 
 Visualization of correlation between emotions and intents in the MC-EIU-English and MC-EIU-Mandarin Datasets. Each circle in the graph represents the sample count for a specific 'Emotion-Intent' pair. Larger circles indicate more samples and higher correlation.
+
