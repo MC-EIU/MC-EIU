@@ -20,7 +20,7 @@ Please connect with the author by email to obtain the extraction code once the p
 
 <div align="center">
   English Dataset<sub><img src="Figures/CorrelationMatrix_English.jpg" width="35%" alt="English Dataset"></sub>
-  Mandarin Dataset<sub><sub><img src="Figures/CorrelationMatrix_Chinese.jpg" width="35%" alt="Mandarin Dataset"></sub>
+  Mandarin Dataset<sub><img src="Figures/CorrelationMatrix_Chinese.jpg" width="35%" alt="Mandarin Dataset"></sub>
   
 </div>
 
