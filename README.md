@@ -23,6 +23,8 @@ Please connect with the author by email to obtain the extraction code once the p
   <img src="Figures/MC-EIU-Chinese_Correlation.jpg" width="35%" alt="Mandarin Dataset"></sub>  
 </div>
 
+<p align="center">Figure 1: Visualization of correlation between emotions and intents in the MC-EIU dataset. Each circle in the graph represents the sample count for a specific "Emotion-Intent" pair. Larger circles indicate more samples and higher correlation.</p>
+
 We explore the correlation between emotion and intent in the MC-EIU-English and MC-EIU-Mandarin datasets.
 We created two 7×9 two-dimensional matrixes, with each element representing the number of samples in the two datasets for each 'Emotion-Intent' pair. Using the sample count as the radius, we visualized circles at the corresponding matrix positions.
 
