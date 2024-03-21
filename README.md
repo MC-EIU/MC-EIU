@@ -24,6 +24,8 @@ Please connect with the author by email to obtain the extraction code once the p
   
 </div>
 
-We explore the correlation between emotion and intent of English and Mandarin datasets. 
+We explore the correlation between emotion and intent in the MC-EIU-English and MC-EIU-Mandarin datasets.
+We created two 7×9 two-dimensional matrixes, with each element representing the number of samples in the two datasets for each 'Emotion-Intent' pair. Using the sample count as the radius, we visualized circles ate the corresponding 
+
 Visualization of correlation between emotions and intents in the MC-EIU-English and MC-EIU-Mandarin Datasets. Each circle in the graph represents the sample count for a specific 'Emotion-Intent' pair. Larger circles indicate more samples and higher correlation.
 
