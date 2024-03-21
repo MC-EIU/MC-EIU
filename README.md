@@ -16,10 +16,14 @@ Baidu Link:
 
 Please connect with the author by email to obtain the extraction code once the paper acceptance results are announced.
 
-![image](Figures/CorrelationMatrix_English.jpg)
+=============================================   Analysis of MC-EIU Dataset   =====================================================
+
+# ![image](Figures/CorrelationMatrix_English.jpg)
+<img src="Figures/CorrelationMatrix_English.jpg" width="50%">
 English Dataset
 
-![image](Figures/CorrelationMatrix_Chinese.jpg)
+# ![image](Figures/CorrelationMatrix_Chinese.jpg)
+<img src="Figures/CorrelationMatrix_Chinese.jpg" width="50%">
 Mandarin Dataset
 
 Visualization of correlation between emotions and intents in the MC-EIU-English and MC-EIU-Mandarin Datasets.
